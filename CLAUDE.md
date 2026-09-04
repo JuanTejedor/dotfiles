@@ -11,3 +11,12 @@
   - Bad: "a powerful, cutting-edge solution".
   - Good: "a solution that reduces query latency by 40%".
 
+# Code styling
+
+- When writing code comments, don't use characters like `---` or `###` to mark off sections. Use `*` at the start of the line instead.
+  - Bad: `### Config`
+  - Good: `* Config`
+- Don't write multiline comments. Always use one-liners (my editor wraps long comments).
+- Write comments in lowercase. Use CAPS only to highlight or emphasize a specific word.
+
+
